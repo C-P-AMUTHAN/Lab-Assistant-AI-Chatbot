@@ -26,13 +26,13 @@ We collaboratively developed this tool to enhance lab efficiency and reduce admi
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Abishekkhanna/Lab-Assistant-ChatBot.git
+   git clone https://github.com/C-P-AMUTHAN/Lab-Assistant-AI-Chatbot.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd Lab-Assistant-ChatBot
+   cd Lab-Assistant-AI-Chatbot
    ```
 
 3. **Run the Jupyter Notebook**:
